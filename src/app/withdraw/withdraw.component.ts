@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-withdraw',
   template: `
     <p>
-      withdraw works!
+      Our Bank doesn't provide withdraw transactions.
     </p>
   `,
   styles: []
